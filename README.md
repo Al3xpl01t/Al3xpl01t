@@ -1,4 +1,4 @@
-<img src="https://github.com/Al3xpl01t/Alexpl01t/blob/main/img/al3xpl01t_label.png"/>
+<img src="https://github.com/Al3xpl01t/Al3xpl01t/blob/main/img/al3xpl01t_title.png"/>
 <br/>
 <h2 align="">Technology Stack</h2>
 <p><img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white"/>
